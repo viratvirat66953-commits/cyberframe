@@ -5,7 +5,7 @@ import { Copy, Check, ArrowUpRight, Send } from 'lucide-react';
 
 export default function Footer() {
   const [copied, setCopied] = useState(false);
-  const email = 'hello@cyberframe.studio';
+  const email = 'contact@cyberframe.online';
 
   const copyEmail = () => {
     navigator.clipboard.writeText(email);

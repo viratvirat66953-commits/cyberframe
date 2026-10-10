@@ -40,7 +40,7 @@ export default function Hero() {
             <span>▶</span> VIEW REEL
           </button>
           <a
-            href="mailto:hello@cyberframe.studio?subject=Studio%20Booking%20-%20CYBERFRAME"
+            href="mailto:contact@cyberframe.online?subject=Studio%20Booking%20-%20CYBERFRAME"
             className="px-7 py-3.5 rounded-full bg-black/60 backdrop-blur-md border border-white/25 text-white font-medium text-sm hover:bg-white/20 transition-all flex items-center gap-2 cursor-pointer hover:scale-105 shadow-xl"
           >
             <span>✦</span> CONTACT STUDIO

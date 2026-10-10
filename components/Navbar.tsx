@@ -76,7 +76,7 @@ export default function Navbar() {
         {/* Action Button */}
         <div className="hidden md:flex items-center">
           <a
-            href="mailto:hello@cyberframe.studio?subject=Project%20Inquiry%20-%20CYBERFRAME"
+            href="mailto:contact@cyberframe.online?subject=Project%20Inquiry%20-%20CYBERFRAME"
             className="group relative inline-flex items-center gap-2 px-6 py-2.5 bg-white text-black font-bold text-xs uppercase tracking-wider rounded-full hover:bg-neutral-200 transition-all duration-300 hover:scale-105"
           >
             <span>Let's Talk</span>
@@ -122,7 +122,7 @@ export default function Navbar() {
             FAQ
           </button>
           <a
-            href="mailto:hello@cyberframe.studio?subject=Project%20Inquiry%20-%20CYBERFRAME"
+            href="mailto:contact@cyberframe.online?subject=Project%20Inquiry%20-%20CYBERFRAME"
             className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-white text-black font-bold text-sm uppercase tracking-wider rounded-full hover:bg-neutral-200 transition-all mt-2"
           >
             <span>Let's Talk</span>
